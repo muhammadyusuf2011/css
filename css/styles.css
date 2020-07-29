@@ -1,0 +1,230 @@
+
+body{
+
+
+
+  text-align: center;
+  margin:0;
+}
+h1{
+  margin-top: 0;
+  font-family:'Dancing Script', cursive;
+  font-size:5.625rem;
+  padding-top:50px;
+  color:#2bb2bb;
+  margin: 0;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:#2bb2bb;
+  font-size:2.5rem;
+  font-weight: 600;
+}
+h3{
+  font-family: 'Merriweather', serif;
+}
+
+span {
+  color:red;
+}
+/*--class selector--*/
+
+.top-container{
+  background-color:#E4F9F5;
+
+}
+
+
+.middle-container{
+  margin: 100px auto;
+
+}
+.skill-row{
+  width:50%;
+  margin:auto;
+  text-align:left;
+  line-height:2;
+}
+.money{
+  width:25%;
+  height:25%;
+  float: left;
+  margin-right:30px;
+}
+.taekwondo{
+  width:25%;
+  height:25%;
+  float: right;
+  margin-right:30px;
+}
+.programmer{
+  width:25%;
+  height:25%;
+}
+hr{
+  border:dotted;
+  border-color:#66BFBF;
+  border-top:none;
+  border-width:6px;
+  width:4%;
+  margin:100px auto;
+}
+.contact-message{
+  width:40%;
+  margin:60px auto 40px;
+  line-height:2;
+}
+
+
+.btn {
+	background-color:#79bbff;
+	border-radius:28px;
+	border:1px #2bb2bb;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.btn:hover {
+	background-color:#378de5;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background-color:#66BFBF;
+  padding:50px 0 20px;
+}
+Adam, [29.07.20 14:50]
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+     }
+h1 {
+  margin: 0 auto 0 auto;
+  padding-top: 50px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;
+  color: #3282b8;
+  line-height: 1;
+}
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color: #3282b8;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #12cad6;
+}
+span {
+  color: #e7305b;
+}
+
+a {
+  color: #3282b8;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #E4F9F5;
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+}
+hr {
+  border: dotted;
+  color: #66BFBF;
+  border-bottom: none;
+  border-width: 6PX;
+  width: 4%;
+  margin: 100px auto;
+}
+/*-----class selector-----*/
+.top-container {
+  background-color: #E4F9F5;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 60px auto 40px;
+}
+
+.copyright-message {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+/*--------- Images---------*/
+.prog-img {
+  width: 15%;
+  height: 15%;
+}
+
+.code-img {
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.chess-img {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.myButton {
+  background-color:#66BFBF;
+  border-radius:28px;
+  border:1px solid #66BFBF;
+  display:inline-block;
+  cursor:pointer;
+  color:#EAF6F6;
+  font-family:Arial;
+  font-size:17px;
+  padding:16px 31px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #7cacde;
+}
+.myButton:hover {
+  background-color:#468ccf;
+}
+.myButton:active {
+  position:relative;
+  top:1px;
+}
